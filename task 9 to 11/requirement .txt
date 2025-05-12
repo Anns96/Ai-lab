@@ -1,0 +1,7 @@
+🔧 Installation Requirements
+If you haven't installed the libraries yet:
+
+bash
+Copy
+Edit
+pip install pandas scikit-learn matplotlib seaborn
